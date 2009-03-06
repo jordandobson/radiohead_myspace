@@ -1,0 +1,1169 @@
+body{
+  background-color: #000000;
+  background-attachment: fixed;
+  background-repeat: repeat-y;
+  background-image: url('http://tbdrecords.com/radioheadimages/bkg.jpg');
+  background-position: top left;
+  text-align: center !important;
+  overflow-y: scroll;
+}
+html body.bodyContent div table{
+  display: none !important;
+}
+html body.bodyContent div div table{
+  display: block !important;
+}
+html body.bodyContent table div table{
+  display: block !important;
+}
+html body.bodyContent div div.profileWidth{
+  margin-top: -10px !important;
+  background-color: #FF3200 !important;
+}
+html body.bodyContent div div *{
+  background-color: transparent;
+}
+div.profileWidth table tr td div ul li a,
+div.profileWidth table tr td div ul li a small,
+div.profileWidth table tr td div ul li a *{
+  text-transform: Uppercase;
+  color: #dddddd !important;
+  font-family: helvetica, arial, sans-serif !important;
+}
+div.profileWidth table tr td div ul li a:hover,
+div.profileWidth table tr td div ul li a:hover small{
+  background-color: #222222 !important;
+  color: #dddddd !important;
+}
+html body table{
+  width: 800px !important;
+  margin: 0 auto;
+  background-image: url("http://tbdrecords.com/radioheadimages/header-2.png");
+  background-position: 0px 0px;
+  background-repeat: no-repeat;
+  border-left: 1px solid transparent;
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://tbdrecords.com/radioheadimages/header-2.png', sizingMethod="crop");
+  _background-image: none;
+  _border-left: none;
+}
+html div table{
+  background-image: none;
+  filter: none !important;
+  width: 800px !important;
+}
+html body.bodyContent div div.profileWidth > table td{
+  width: 800px !important;
+}
+html body table table{
+  width: auto !important;
+  border: none;
+  background-image: none;
+  filter: none !important;
+}
+body table table { 
+  margin-top: 275px;
+}
+body div table table,
+body table table table,
+.friendsComments { 
+  margin-top: 0;
+  background-image: none;
+}
+body table td{
+  background-color: transparent;
+}
+html body.bodyContent table tbody tr td table tbody tr td table{
+  display: none;
+}
+html body.bodyContent table tbody tr td table tbody tr td.text div table,
+html body.bodyContent table tbody tr td table tbody tr td.text table.latestBlogEntry,
+html body.bodyContent table tbody tr td table tbody tr td.text table,
+html body.bodyContent table tbody tr td table tbody tr td.text table.friendSpace{
+  display: block;
+}
+html body table tbody tr td table tbody tr td{
+  display: none;
+}
+html body table tbody tr td table tbody tr td.text,
+html body table tbody tr td table tbody tr td.text td{
+  display: block;
+}
+html body div div.profileWidth table tr td div.clearfix{
+  height: auto !important;
+  padding: 0;
+  margin: 0;
+  background-image: url('http://x.myspacecdn.com/modules/common/static/img/header/bkg_msbar.png');
+  background-repeat: repeat-x;
+  background-position: bottom left;
+  _background-image: none;
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://x.myspacecdn.com/modules/common/static/img/header/bkg_msbar.png', sizingMethod="scale");
+}
+html body div div.profileWidth table tr td div.clearfix div[id$="header_gae"]{
+  width: 728px !important;
+  margin: 0 auto !important;
+}
+html body div div.profileWidth table tr td div.clearfix div.profile{
+  margin-top: 0px !important;
+}
+html body div div.profileWidth table tr td div.clearfix div.profile h1{
+  margin-top: 5px !important;
+  _padding-top: 6px !important;
+}
+html body div div.profileWidth table tr td div.clearfix div.profile{
+  padding-top: 3px !important;
+  padding-bottom: 0px !important;
+  _padding-top: 5px !important;
+}
+html body table tbody tr td{
+  width: auto !important;
+}
+html body table tbody tr td img{
+  display: none;
+}
+html body table tbody tr td td img{
+  display: inline;
+}
+html body table tbody tr td table tr td.text{
+  width: 780px !important;
+  display: block !important;
+  margin-top: -1px;
+}
+html body table tbody tr td table tr td.text table td.text{
+  width: auto !important;
+}
+html body table tbody tr td table td.text{
+  _display: block !important;
+  position: relative !important;
+}
+html body table tbody tr td table{
+  position: relative !important;
+  _position: inherit !important;
+}
+html body table tbody tr td table tbody tr td.text div object,
+html body table tbody tr td table tbody tr td.text div h5,
+html body table tbody tr td table tbody tr td.text div p,
+html body table tbody tr td table tbody tr td.text div a img{
+  display: none !important;
+  visibility: hidden !important;
+  background-color: none !important;
+}
+html body table tbody tr td table tbody tr td.text div[id="tkn_trackingpixelband"],
+html body table tbody tr td table tbody tr td.text div[style$="345px;"]{
+  display: none !important;
+}
+html body table tbody tr td table tbody tr td.text table tr td.text,
+html body table tbody tr td table tbody tr td.text br{
+  display: none !important;
+}
+html body table tbody tr td table tbody tr td.text table{
+  position: absolute !important;
+  top: 0px;
+  right: 0px;
+  background-color: transparent !important;
+}
+html body table tbody tr td table tbody tr td.text table table{
+  position: relative !important;
+  top: 0px;
+  left:.05em;
+  width: 780px !important;
+  _left:0;
+}
+html body table tbody tr td table tbody tr td.text div{
+  position: absolute !important;
+  top: 385px !important;
+  right: 0px !important;
+  width: 450px !important;
+  height: 305px !important;
+  display: block !important;
+  overflow: auto !important;
+  z-index: 9 !important;
+  text-align: left !important;
+  border: none !important;
+  background-color: transparent !important;
+  overflow-x: hidden !important;
+  overflow-y: auto !important;
+}
+html body table tbody tr td table tbody tr td.text div[style$="width: auto; height:auto;"]{
+  display: none !important;
+  visibility: hidden !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important; 
+}
+html body table tbody tr td table tbody tr td.text div.CustomPlayer{
+  top: 0 !important;
+  right: 0px !important;
+  overflow: hidden !important;
+  background-image: url('http://tbdrecords.com/radioheadimages/80-000000.png');
+  display: block !important;
+  width: 450px !important;
+  height: 345px !important;
+  _background-image: none;
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://tbdrecords.com/radioheadimages/80-000000.png', sizingMethod="scale");
+}
+html body table tbody tr td table tbody tr td.text div.CustomPlayer object{
+  display: block !important;
+  visibility: visible !important;
+}
+html body table tbody tr td table tbody tr td.text div table td table td{
+  font-size: 0px !important;
+}
+html body table tbody tr td table tbody tr td.text div table td table td *{
+  line-height: inherit !important;
+  font-size: inherit !important;
+}
+html body table tbody tr td table tbody tr td.text div table td table span.whitetext12,
+html body table tbody tr td table tbody tr td.text div table td table span.whitelink{
+  display: none !important;
+  font-size: 0px !important;
+}
+html body table tbody tr td table tbody tr td.text div table,
+html body table tbody tr td table tbody tr td.text div table td,
+html body table tbody tr td table tbody tr td.text div table tr{
+  background-color: transparent !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  vertical-align: top !important;
+}
+html body table tbody tr td table tbody tr td.text div table{
+  width: 410px !important;
+  position: relative !important;
+  z-index: 9 !important;
+  border-collapse: collapse !important;
+  table-layout: fixed !important;
+  border-spacing: 0px !important;
+  margin-left: 20px !important;
+  _margin-left: 15px !important;
+  _margin-top: -5px !important;
+}
+html body table tbody tr td table tbody tr td.text div table table{
+  width: auto !important;
+  height: auto !important;
+  border: none;
+  margin-left: 0px !important;
+  margin-top: 0px !important;
+  width: 410px !important;
+}
+html body table tbody tr td table tbody tr td.text div table table td{
+  width: 130px !important;
+  display: table-cell !important;
+  text-transform: Uppercase;
+  _padding-right: 6px !important;
+}
+html body table tbody tr td table tbody tr td.text div table table td[width$="120"],
+html body table tbody tr td table tbody tr td.text div table table td[width$="191"]{
+  width: 140px !important;
+  background-color: none;
+}
+html body table tbody tr td table tbody tr td.text div table table td[width$="115"]{
+  padding-right: 3px !important;
+}
+html body.bodyContent table tbody tr td table tbody tr td.text div table table td a{
+  font-size: 10px !important;
+  font-family: helvetica, arial, sans-serif !important;
+  color: #FDFD49 !important;
+  font-weight: normal !important;
+  text-decoration: none !important;
+  display: block !important;
+  padding-right: 10px;
+  text-transform: Uppercase;
+  _padding-right: 4px !important;
+}
+html body table tbody tr td table tbody tr td.text div table table td a:hover{
+  color: #ffffff !important;
+  text-decoration: none !important;
+}
+html body table tbody tr td table tbody tr td.text div table table table{
+  width: 130px !important;
+}
+html body table tbody tr td table tbody tr td.text div table table table td{
+  border: none !important;
+  text-transform: Uppercase !important;
+  text-align: left !important;
+  width: 62% !important;
+  vertical-align: top !important;
+  white-space: nowrap;
+}
+html body table tbody tr td table tbody tr td.text div table table table td[width$="85"]{
+  width: 85px !important;
+}
+html body table tbody tr td table tbody tr td.text div table table table td[width$="35"]{
+  width: 45px !important;
+}
+html body table tbody tr td table tbody tr td.text div table table table td font{
+  line-height: 1.1em !important;
+  _line-height: 1em !important;
+}
+html body table tbody tr td table tbody tr td.text div table table td font{
+  color: #ffffff !important;
+  font-size: 10px !important;
+  font-family: helvetica, arial, sans-serif !important;
+  display: block !important;
+  margin-bottom: 15px !important;
+  _margin-bottom: 10px !important;
+}
+html body table tbody tr td table tbody tr td.text div table tr:first-child table[width$="440"]{
+  display: none !important;
+}
+html body.bodyContent table tbody tr td table tbody tr td.text table.latestBlogEntry{
+  position: absolute !important;
+  display: block !important;
+  width: 416px !important;
+  right: 17px;
+  top: 1104px;
+  z-index: 9;
+  _top: 1071px;
+}
+html body.bodyContent table tbody tr td table tbody tr td.text table[class$="latestBlogEntry"]{
+  max-height: 275px !important;
+}
+html body.bodyContent table tbody tr td table tbody tr td.text table.latestBlogEntry span.btext{
+  display: none;
+}
+html body.bodyContent table tbody tr td table tbody tr td.text table.latestBlogEntry td{
+  font-size: 1px;
+  color: #000;
+  color: transparent !important;
+  overflow: hidden;
+  padding: 0 !important;
+  margin: 0 !important;
+  padding-bottom: 20px !important;
+  _text-indent: -300px;
+  _padding-bottom: 20px !important;
+}
+html body.bodyContent table tbody tr td table tbody tr td.text table[class$="latestBlogEntry"] tr:first-child td{
+  display: none;
+}
+html body.bodyContent table tbody tr td table tbody tr td.text table.latestBlogEntry td a{
+  font-family: helvetica, arial, sans-serif !important;
+  font-weight: normal !important;
+  text-decoration: none !important;
+  text-transform: Capitalize;
+  font-family: helvetica, arial, sans-serif !important;
+  color: #78D6FF !important;
+  font-size: 10px !important;
+  margin-left: 1em;
+}
+html body.bodyContent table tbody tr td table tbody tr td.text table.latestBlogEntry td a:hover{
+  color: #ffffff !important;
+  text-decoration: none !important;
+}
+html body.bodyContent table tbody tr td table tbody tr td.text table.latestBlogEntry td span.text{
+  color: #ffffff !important;
+  font-size: 10px !important;
+  font-family: helvetica, arial, sans-serif !important;
+  display: inline !important;
+  margin-left: 300px;
+  line-height: 13px;
+  text-transform: Uppercase;
+}
+html body.bodyContent table tbody tr td table tbody tr td.text table.latestBlogEntry td a[href*="blog.view"]{
+  clear: both;
+  float: left;
+  display: block !important;
+  margin-left: 0px !important;
+  margin-right: -3px !important;
+  width: 100% !important;
+  text-align: right;
+  text-transform: Uppercase;
+  letter-spacing: 1px;
+  line-height: 12px !important;
+  height: 12px !important;
+  overflow: hidden;
+  margin-top: -13px !important;
+  vertical-align: top;
+}
+html body.bodyContent table tbody tr td table tbody tr td.text table.latestBlogEntry td a[href*="blog.view"], x:-moz-any-link {
+  margin-top: -1.2em !important;
+  line-height: 9px !important;
+  height: 9px !important;
+  overflow:hidden;
+  vertical-align: top;
+  display: table-cell !important;
+}
+html body.bodyContent table tbody tr td table tbody tr td.text table.latestBlogEntry td a[href*="blog.view"], x:-moz-any-link, x:default {
+  margin-top: -15px !important;
+  height: 10px !important;
+  line-height: 10px !important;
+}
+html body.bodyContent table tbody tr td table tbody tr td.text table.latestBlogEntry td span[class="text"]{
+  display: block !important;
+  width: 70% !important;
+  margin: 0 0 0 0;
+  padding-right: 30% !important;
+  z-index: 5;
+}
+html body.bodyContent table tbody tr td table tbody tr td.text table.latestBlogEntry td[valign$="top"]{
+  display: none !important;
+}
+span.CustomBlock_Events{
+  position: absolute;
+  width: 450px;
+  height: 345px;
+  display: block;
+  right: 0;
+  top: 365px;
+  z-index: 1;
+  background-image: url('http://tbdrecords.com/radioheadimages/80-000000.png');
+  _background-image: none;
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://tbdrecords.com/radioheadimages/80-000000.png', sizingMethod="scale");
+}
+span.CustomBlock_Nav{
+  display:block;
+  width: 800px;
+  position: absolute;
+  top: -275px;
+  left: -10;
+  background-image: url('http://tbdrecords.com/radioheadimages/80-000000.png');
+  z-index: 5;
+  _top: -276px;
+  _background-image: none;
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://tbdrecords.com/radioheadimages/80-000000.png', sizingMethod="scale");
+}
+span.CustomBlock_Nav b{
+  display: block;
+  width: 780px;
+  overflow: hidden;
+  height: 11px;
+  margin: 10px;
+  background-image: url('http://tbdrecords.com/radioheadimages/nav.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+  _background-image: none;
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://tbdrecords.com/radioheadimages/nav.png', sizingMethod="crop");
+}
+span.CustomNav{
+  display:block;
+  width: 800px;
+  position: absolute;
+  top: -275px;
+  left: -10px;
+  z-index: 9;
+  _top: -276px;
+}
+span.CustomNav b{
+  display: block;
+  overflow: hidden;
+  width: 780px;
+  height: 11px;
+  padding: 10px;
+  text-align: left;
+  _width: 800px;
+  _height: 31px;
+}
+span.CustomNav b:hover{
+  background-color: #000;
+  background-image: url('http://tbdrecords.com/radioheadimages/nav.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+span.CustomNav b a{
+  display: block;
+  height: 10px;
+  float: left;
+  text-decoration: none;
+  background-color: transparent;
+  margin-right: 19px;
+  overflow: hidden;
+  cursor: pointer;
+}
+span.CustomNav b a:hover{
+  background-color: #000000;
+  opacity: .50;
+  filter: alpha(opacity=50);
+}
+span.CustomNav b a.photos{        width: 50px; }
+span.CustomNav b a.sendMessage{   width: 98px; margin-right: 23px; }
+span.CustomNav b a.addToFriends{  width: 87px; }
+span.CustomNav b a.im{            width: 15px; }
+span.CustomNav b a.addToGroup{    width: 78px; margin-right: 21px; }
+span.CustomNav b a.sendToFriend{  width: 103px;margin-right: 24px;}
+span.CustomNav b a.addToFavorites{width: 102px;margin-right: 22px; }
+span.CustomNav b a.block{         width: 42px; margin-right: 25px;}
+span.CustomNav b a.rank{          width: 33px; margin-right: 0px;}
+span.CustomAlbum{
+  display:block;
+  width: 310px;
+  height: 345px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-image: url('http://tbdrecords.com/radioheadimages/80-000000.png');
+  _background-image: none;
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://tbdrecords.com/radioheadimages/80-000000.png', sizingMethod="scale");
+}
+span.CustomBlock_Nav, span.CustomNav, x:-moz-any-link, x:default{
+  left: -11;
+}
+span.CustomAlbum img{
+  width: 270px;
+  height: 270px;
+  margin: 20px 20px 0px 20px;
+}
+span.CustomAlbum a{
+  display: block;
+  width: 310px;
+  height: 345px;
+  text-align:center;
+  text-decoration: none !important;
+}
+span.CustomAlbum a:hover{
+  background-color: black;
+  text-decoration: none !important;
+}
+span.CustomAlbum a:hover img{}
+span.CustomAlbum a:hover b{
+  opacity: 0.50;
+  cursor: pointer;
+  filter: alpha(opacity=50);
+}
+span.CustomAlbum b{
+  display: block !important;
+  height: 55px;
+  background-image: url('http://tbdrecords.com/radioheadimages/order.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+  _background-image: url('http://tbdrecords.com/radioheadimages/order.gif');
+}
+span.CustomHeader_Events{
+  position: absolute;
+  width: 171px;
+  height: 70px;
+  top: 365px;
+  right: 470px;
+  background-image: url('http://tbdrecords.com/radioheadimages/tour.png');
+  background-position: 0px 0px;
+  background-repeat: no-repeat;
+  text-align: right;
+  _background-image: none;
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://tbdrecords.com/radioheadimages/tour.png', sizingMethod="crop");
+}
+span.CustomHeader_Events b,
+span.CustomHeader_Video b,
+span.CustomHeader_News b,
+span.CustomHeader_Friends b{
+  display: block;
+  padding-top: 51px;
+}
+span.CustomHeader_Events a,
+span.CustomHeader_Video a,
+span.CustomHeader_News a,
+span.CustomHeader_Friends a,
+span.CustomBlock_Comments a{
+  display: inline;
+  line-height: 2em;
+  font-family: helvetica, arial, sans-serif !important;
+  text-decoration: underline !important;
+  letter-spacing: 1px;
+  font-weight: normal;
+  color: #FDFD49 !important;
+  border: none !important;
+}
+span.CustomHeader_Events a:hover,
+span.CustomHeader_Video a:hover,
+span.CustomHeader_News a:hover,
+span.CustomHeader_Friends a:hover,
+span.CustomBlock_Comments a:hover{
+  color: #ffffff !important;
+  border: none !important;
+  text-decoration: none !important;
+}
+span.CustomVideo{
+  position: absolute;
+  width: 410px;
+  height: 300px;
+  top: 730px;
+  right: 0px;
+  display: block !important;
+  padding: 20px 20px;
+  background-image: url('http://tbdrecords.com/radioheadimages/80-000000.png');
+  _background-image: none;
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://tbdrecords.com/radioheadimages/80-000000.png', sizingMethod="scale");
+}
+span.CustomHeader_Video{
+  width: 240px;
+  height: 70px;
+  position: absolute;
+  top: 730px;
+  right: 470px;
+  background-image: url('http://tbdrecords.com/radioheadimages/videos.png');
+  background-position: 0px 0px;
+  background-repeat: no-repeat;
+  text-align: right;
+  _background-image: none;
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://tbdrecords.com/radioheadimages/videos.png', sizingMethod="crop");
+}
+span.CustomHeader_Video a{
+  color: #6fbe44 !important;
+}
+span.CustomHeader_News{
+  position: absolute;
+  width: 161px;
+  height: 70px;
+  top: 1090px;
+  right: 470px;
+  background-image: url('http://tbdrecords.com/radioheadimages/news.png');
+  background-position: 0px 0px;
+  background-repeat: no-repeat;
+  text-align: right;
+  _background-image: none;
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://tbdrecords.com/radioheadimages/news.png', sizingMethod="crop");
+}
+span.CustomHeader_News a{
+  color: #78D6FF !important;
+  margin-left: 1em;
+}
+span.CustomBlock_News{
+  position: absolute;
+  width: 450px;
+  height: 275px;
+  display: block;
+  right: 0;
+  top: 1090px;
+  z-index: 1;
+  background-image: url('http://tbdrecords.com/radioheadimages/80-000000.png');
+  _background-image: none;
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://tbdrecords.com/radioheadimages/80-000000.png', sizingMethod="scale");
+}
+span.CustomBlock_Credits{
+  position: absolute;
+  width: 410px;
+  height: 10px;
+  top: 1385px;
+  right: 0px;
+  display: block !important;
+  padding: 20px 20px;
+  background-image: url('http://tbdrecords.com/radioheadimages/80-000000.png');
+  z-index: 5;
+  _background-image: none;
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://tbdrecords.com/radioheadimages/80-000000.png', sizingMethod="scale");
+}
+span.CustomBlock_Credits b{
+  display: block !important;
+  height: 10px !important;
+  width: 410px !important;
+  overflow: hidden;  
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://tbdrecords.com/radioheadimages/credits.png', sizingMethod="crop"); 
+}
+span.CustomCredits{
+  position: absolute;
+  width: 410px;
+  height: 10px;
+  top: 1385px;
+  right: 0px;
+  display: block !important;
+  padding: 20px 20px;
+  z-index: 9;
+}
+span.CustomCredits:hover{
+  background-color: #000;
+}
+span.CustomCredits b{
+  display: block !important;
+  height: 10px !important;
+  width: 410px !important;
+  overflow: hidden;
+  background-image: url('http://tbdrecords.com/radioheadimages/credits.png');
+  background-position: center center;
+  background-repeat: no-repeat;
+  _background-image: none;
+}
+span.CustomCredits a{
+  margin-top: 2px;
+  height: 8px;
+  float: left;
+  width: 60px;
+  background-color: transparent;
+}
+span.CustomCredits a:hover{
+  background-color: #000;
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+}
+span.CustomCredits a.radiohead{     width: 58px; margin-right: 16px;  }
+span.CustomCredits a.tbdRecords{    width: 72px; margin-right: 17px;  }
+span.CustomCredits a.xlRecordings{  width: 82px; margin-right: 17px;  }
+span.CustomCredits a.waste{         width: 49px; margin-right: 15px;  }
+span.CustomCredits a.squad{         width: 84px; margin-right: 0px;   }
+span.CustomHeader_Friends{
+  position: absolute;
+  width: 252px;
+  height: 70px;
+  top: 1455px;
+  right: 470px;
+  background-image: url('http://tbdrecords.com/radioheadimages/friends.png');
+  background-position: 0px 0px;
+  background-repeat: no-repeat;
+  text-align: right;
+  _background-image: none;
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://tbdrecords.com/radioheadimages/friends.png', sizingMethod="crop");
+}
+span.CustomHeader_Friends a{
+  color: #FF0000 !important;
+
+  margin-left: 1em;
+}
+span.CustomBlock_Friends{
+  position: absolute;
+  width: 450px;
+  height: 350px;
+  display: block;
+  right: 0;
+  top: 1455px;
+  z-index: 1;
+  background-image: url('http://tbdrecords.com/radioheadimages/80-000000.png');
+  _background-image: none;
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://tbdrecords.com/radioheadimages/80-000000.png', sizingMethod="scale");
+}
+span.CustomHeader_Comments{
+  position: absolute;
+  right: 470px;
+  top: 1825px;
+  width: 310px;
+  height: 41px;
+  background-repeat: no-repeat;
+  background-image: url('http://tbdrecords.com/radioheadimages/comments.png');
+  _background-image: none;
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://tbdrecords.com/radioheadimages/comments.png', sizingMethod="crop");
+}
+span.CustomBlock_Comments{
+  position: absolute;
+  right: 0px;
+  top: 1825px;
+  width: 450px;
+  height: 41px;
+  text-align: right;
+}
+span.CustomBlock_Comments b{
+  display: block;
+  height: 41px;
+  overflow: hidden;
+}
+span.CustomBlock_Comments a{
+  text-decoration: underline !important;
+  color: #FDFD49 !important;
+  margin-left: 20px;
+  line-height: 40px;
+  _line-height: 38px;
+}
+html body.bodyContent table tbody tr td table tbody tr td.text table.friendSpace{
+  position: absolute !important;
+  display: block !important;
+  top: 1455px;
+  right: 0px;
+  width: 450px !important;
+  height: 350px !important;
+  overflow: hidden !important;
+  table-layout: fixed !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  z-index: 9;
+  _height: 345px !important;
+}
+html body.bodyContent table tbody tr td table tbody tr td.text table.friendSpace tr td.text{
+  display: block !important;
+  width: 450px !important;
+  height: 350px !important;
+  overflow: hidden !important;
+  float: left;
+  _height: 345px !important;
+  _float: none;
+}
+html body.bodyContent table tbody tr td table tbody tr td.text table.friendSpace tr td.text table{
+  display: block !important;
+  overflow: hidden !important;
+  width: 450px !important;
+  height: 350px !important;
+  table-layout: fixed !important;
+  float: left;
+  _height: auto !important;
+  _width: 440px !important;
+  _float: none;
+}
+html body.bodyContent table tbody tr td table tbody tr td.text table.friendSpace tr td.text table[height$="20"],
+html body.bodyContent table tbody tr td table tbody tr td.text table.friendSpace tr td.text table td[colspan$="4"]{
+  display: none !important;
+}
+html body.bodyContent table tbody tr td table tbody tr td.text table.friendSpace tr td.text table td{
+  font-size: 1px;
+  line-height: 0px;
+  color: #000;
+  text-align: center;
+}
+html body.bodyContent table tbody tr td table tbody tr td.text table.friendSpace tr td[class="text"] table td{
+  display: table-cell !important;
+  width: 410px !important;
+  height: 310px !important;
+  margin: 0 !important;
+  vertical-align: top !important;
+  text-align: left !important;
+  padding: 20px !important;
+}
+html body.bodyContent table tbody tr td table tbody tr td.text table.friendSpace tr td[class="text"] table td, x:-moz-any-link{
+  padding-left: 19px !important;
+}
+html body.bodyContent table tbody tr td table tbody tr td.text table.friendSpace tr td[class="text"] table td td{
+  background-color: transparent !important;
+  padding: 0 !important;
+}
+html body.bodyContent table tbody tr td table tbody tr td.text table.friendSpace tr td.text table tr td span.orangetext15,
+html body.bodyContent table tbody tr td table tbody tr td.text table.friendSpace tr td.text table tr td span.btext{
+  display: none !important;
+}
+html body.bodyContent table tbody tr td table tbody tr td.text table.friendSpace tr td.text table table{
+  display: block !important;
+  width: 426px !important;
+  height: 307px !important;
+  table-layout: fixed !important;
+  margin: 0px;
+  _margin-left: 2px;
+  _margin-top: 6px;
+}
+html body.bodyContent table tbody tr td table tbody tr td.text table.friendSpace tr td.text table table[width$="435"]{
+  display: table !important;
+  margin:   0px !important;
+  padding:  0px !important;
+  width:    426px !important;
+  height:   310px !important;
+}
+html body.bodyContent table tbody tr td table tbody tr td.text table.friendSpace tr td.text table table[width$="435"] td{
+  display: table-cell !important;
+  height: 145px !important;
+  width: 90px !important;
+  text-align: left !important;
+}
+html body.bodyContent table tbody tr td table tbody tr td.text table.friendSpace tr td.text table table[width$="435"] td:first-child{
+  margin-left: 0px !important;
+}
+html body.bodyContent table tbody tr td table tbody tr td.text table.friendSpace tr td.text table table[width$="435"] tr:first-child td{
+  padding-bottom: 20px !important;
+}
+html body.bodyContent table tbody tr td table tbody tr td.text table.friendSpace tr td.text table table[width$="435"] tr td td[width]{
+  padding-bottom: 0px !important;
+}
+html body.bodyContent table tbody tr td table tbody tr td.text table.friendSpace tr td.text table table table{
+  display: block !important;
+  width: 90px !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: none !important;
+  height: 145px !important;
+  overflow: hidden !important;
+  _height: 10px !important;
+}
+html body.bodyContent table tbody tr td table tbody tr td.text table.friendSpace tr td.text table table[width$="435"] table{
+  display: table !important;
+  table-layout: fixed !important;
+  float: left;
+  position: relative;
+}
+html body.bodyContent table tbody tr td table tbody tr td.text table.friendSpace tr td.text table table[width$="435"] table:hover td a{
+  color: #fff !important;
+}
+html body.bodyContent table tbody tr td table tbody tr td.text table.friendSpace tr td.text table table[width$="435"] table:hover td a img{
+ opacity: .5;
+}
+html body.bodyContent table tbody tr td table tbody tr td.text table.friendSpace tr td.text table table table td{
+  display: block !important;
+  width: 90px !important;
+  border: none !important;
+  margin: 0px !important;
+}
+html body.bodyContent table tbody tr td table tbody tr td.text table.friendSpace tr td.text table table[width$="435"] table td{
+  display: table-cell !important;
+  padding: 0px !important;
+  text-align: left !important;
+  position: relative !important;
+}
+html body.bodyContent table tbody tr td table tbody tr td.text table.friendSpace tr td.text table table[width$="435"] table td[width$="107"]{
+  height: 20px !important;
+}
+html body.bodyContent table tbody tr td table tbody tr td.text table.friendSpace tr td.text table table[width$="435"] table td[width$="25%"]{
+  height: 125px !important;
+}
+html body.bodyContent table tbody tr td table tbody tr td.text table.friendSpace tr td.text table table table td a img{
+  display: block !important;
+  width: 90px !important;
+  margin: 0px !important;
+  padding: 0 !important;
+  position: relative;
+  top: 0px;
+  max-height: 100%;
+  min-height: 66%;
+  opacity: .99;
+  cursor: pointer !important;
+  _height: auto;
+  _margin: -2px 0px 6px -1px !important;
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://tbdrecords.com/radioheadimages/ie_friend.png', sizingMethod="image"), alpha(opacity=66);
+}
+html body.bodyContent table tbody tr td table tbody tr td.text table.friendSpace tr td.text table table table td a{
+  line-height: 9px !important;
+  font-size: 10px !important;
+  text-transform: Uppercase;
+  font-family: arial, sans-serif !important;
+  display: block;
+  text-align: left;
+  font-weight: normal !important;
+  color: #fff !important;
+  overflow: visible;
+  height: auto;
+  color: #ff0000 !important;
+  margin-top: 0px !important;
+  _position: relative;
+  _top: 0px;
+  _height: 18px;
+  _font-size: 9px;
+  _margin-top: 2px !important;
+}
+html body.bodyContent table tbody tr td table tbody tr td.text table.friendSpace tr td.text table table[width$="435"] table td[width$="107"] a{
+  height: 20px !important;
+  overflow: hidden;
+  float: left;
+  width: 90px;
+  line-height: 10px !important;
+}
+html body.bodyContent table tbody tr td table tbody tr td.text table.friendSpace tr td.text table table[width$="435"] table td[width$="25%"] a{
+  float: left;
+  height: 120px !important;
+  overflow: hidden;
+  width: 90px;
+  margin-top: 5px !important;
+}
+html body.bodyContent table tbody tr td table tbody tr td.text table.friendSpace tr td.text table table table td a:hover{
+  text-decoration: none !important;
+  color: #fff !important;
+  font-weight: normal !important;
+}
+html body.bodyContent table tbody tr td table tbody tr td.text table.friendSpace tr td.text table table table td a:hover img{
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://tbdrecords.com/radioheadimages/ie_friend.png', sizingMethod="image"), alpha(opacity=100);
+}
+span.msOnlineNow{
+  display: none !important;
+}
+html body.bodyContent table tbody tr td table.friendsComments{
+  display: table !important;
+  width: 780px !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  position: relative !important;
+  height: auto !important;
+  margin-top: 1886px !important;
+  top : 0px;
+  left: 0px;
+  table-layout: fixed !important;
+  border: none !important;
+  margin-bottom: 20px !important;
+  padding-bottom: 100px !important;
+  height: 2000px !important;
+}
+html body.bodyContent table[class$="friendsComments"], x:-moz-any-link{
+    left: -1px;
+}
+html body.bodyContent table.friendsComments td.text table tr td span.orangetext15,
+html body.bodyContent table.friendsComments td.text table tr td span.redtext,
+html body.bodyContent table.friendsComments td.text table tr td b{
+  display: none !important;
+}
+html body.bodyContent table.friendsComments tr td.text{
+  width: 780px !important;
+  margin: 0 !important;
+  padding: 0 0 0 0px !important;
+  display: block !important;
+  text-align: center;
+}
+html body.bodyContent table.friendsComments tr td.text table{
+  display: block !important;
+  margin: 0 !important;
+  border: none !important;
+  padding: 0 !important;
+  width: 780px !important;
+  table-layout: fixed !important;
+}
+html body.bodyContent table.friendsComments tr td.text table td{
+  display: block !important;
+  margin: 0 !important;
+  border: none !important;
+  padding: 0px !important;
+}
+html body.bodyContent table.friendsComments tr td.text table table{
+  display: table !important;
+  width: 780px !important;
+  margin-left: -3px !important;
+  margin-top: -5px !important;
+  _margin-top: -7px !important;
+}
+html body.bodyContent table.friendsComments tr td.text table table td{
+  width: 110px !important;
+  display: block !important;
+  margin: 0 !important;
+  border: none !important;
+  padding: 0 !important;
+  padding-top: 20px !important;
+  display: table-cell !important;
+  background-image: url('http://tbdrecords.com/radioheadimages/80-000000.png') !important;
+  _background-image: none !important;
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://tbdrecords.com/radioheadimages/80-000000.png', sizingMethod="scale");
+}
+html body.bodyContent table.friendsComments tr td.text table table td.columnsWidening{
+  width: 630px !important;
+  padding-right: 20px !important;
+  padding-left: 20px !important;
+  color: #fff;
+  line-height: 1.45em;
+  font-size: 125%;
+  font-family: arial, sans-serif !important;
+  overflow: hidden !important;
+  _width: 670px !important;
+  _line-height: 1.47em;
+}
+html body.bodyContent table.friendsComments table a{
+  _height: 20px;
+  _font-size: 1px;
+  _font-weight: normal;
+  _line-height: 60px;
+  _display: block !important;
+  _overflow: hidden !important;
+  _margin: 0 !important;
+  _padding: 0 !important;
+  _position: relative;
+  _width: 780px !important;
+  _margin-left: -3px;
+  _margin-top: -3px;
+  _cursor: default !important;
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://tbdrecords.com/radioheadimages/80-000000.png', sizingMethod="scale");
+}
+html body.bodyContent table.friendsComments table td[align$="right"]{
+  margin: 0 !important; 
+  padding:0 !important;
+  width: 780px !important;
+  text-align: center;
+  display: block !important;
+  float: right;
+  position: absolute;
+  overflow: hidden;
+  left: 0;
+  right: 0;
+  height: 20px;
+  bottom: -14px;
+  background-image: url('http://tbdrecords.com/radioheadimages/80-000000.png');
+}
+html body.bodyContent table.friendsComments table td[align$="right"], x:-moz-any-link { bottom: -13px; }
+html body.bodyContent table.friendsComments table td[align$="right"], x:-moz-any-link, x:default {
+  bottom: -14px;
+}
+html body.bodyContent table.friendsComments table td[align$="right"] a{
+  display: block !important;
+  width: 1px;
+  height: 20px;
+  overflow: hidden;
+  line-height: 200px;
+  margin-top: 40px;
+  cursor: default !important;
+}
+html body.bodyContent table.friendsComments td.text table tr td table tr td a{
+  width: 90px !important;
+  display: block !important;
+  text-align: right;
+  padding: 0 !important;
+  font-family: arial, sans-serif !important;
+  height: 19px;
+  line-height: 9px !important;
+  font-size: 10px !important;
+  font-weight: normal !important;
+  text-transform: Uppercase;
+  float: left;
+  margin-left: 20px !important;
+  color: #FDFD49 !important;
+  cursor: pointer !important;
+  background-color: transparent !important;
+  _margin-top: 0px !important;
+  _margin-right: -3px !important;
+  _margin-left: 0px !important;
+  _font-size: 9px !important;
+  _float: right;
+  _height: 18px !important;
+  _overflow: visible !important;
+  filter: none;
+}
+html body.bodyContent table.friendsComments td.text table tr td table tr td a:hover{
+  color: #ffffff !important;
+  text-decoration: none !important;
+}
+html body.bodyContent table.friendsComments td.text table tr td table tr td[width$="150"]:hover a{
+  color: #ffffff !important;
+}
+html body.bodyContent table.friendsComments td.text table tr td table tr td[width$="150"]:hover a img{
+  opacity: .5;
+}
+html body.bodyContent table.friendsComments td.text table tr td table tr td[width$="150"] a{
+  width: 90px !important;
+  height: 90px !important;
+  overflow: hidden;
+}
+html body.bodyContent table.friendsComments td.text table tr td table tr td[width$="150"] a:first-child{ 
+  height: 18px !important;
+  overflow: hidden !important;
+  margin-bottom: 1px !important;
+}
+html body.bodyContent table.friendsComments td.text table tr td table tr td a img{
+  background-color: #000000 !important;
+  min-height: 90px;
+  display: block !important;
+  margin-top: 2px !important;
+  _margin-right: 3px !important;
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://tbdrecords.com/radioheadimages/ie_commenter.png', sizingMethod="image"), alpha(opacity=66);
+}
+html body.bodyContent table.friendsComments td.text table tr td table tr td a:hover img{
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://tbdrecords.com/radioheadimages/ie_commenter.png', sizingMethod="image"), alpha(opacity=100);
+}
+html body.bodyContent table.friendsComments table table td.columnsWidening span.blacktext10{
+  display: block !important;
+  width: 100% !important;
+  height: 18px !important;
+  font-weight: normal !important;
+  font-family: arial, sans-serif !important;
+  line-height: 9px !important;
+  font-size: 10px !important;
+  text-transform: Uppercase;
+  color: #999999 !important;
+  _font-size: 9px !important;
+  _height: 16px;
+}
+td[id$=footerWarpper]{
+  display: none !important;
+}
+html body.bodyContent table tr td br,
+html body.bodyContent table tr td font,
+html body.bodyContent table tr td div div a.text{
+  _display: none !important;
+}
+html body.bodyContent table tr td div div{
+  _visibility: hidden !important;
+}
+html body.bodyContent div div table tr td div div{
+  _visibility: visible !important;
+}
+div.commentlinks{
+  font-size: 1px;
+  position: absolute;
+  left: -3000px;
+  width: 1px !important;
+  height: 1px !important;
+  overflow: hidden !important;
+}
+html body.bodyContent table.friendsComments table tr td table tr td.columnsWidening a{
+  display: inline !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  height: auto !important;
+  width: 100% !important;
+  float: none !important;
+  text-align: center !important;
+  position: relative !important;
+}
+html body.bodyContent table.friendsComments table tr td table tr td.columnsWidening img{
+  display: inline !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  float: none !important;
+  position: relative !important;
+}

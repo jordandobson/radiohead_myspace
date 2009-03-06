@@ -1,0 +1,325 @@
+<style>
+
+
+
+
+body {
+background-color: 000 !important;
+color: f3dd7d !important;
+}
+
+table, td, tr, div, font, p, h1, h2, h3, h4, strong, span {
+background: transparent;
+border: 0;
+color: f3dd7d !important;
+font-family: Helvetica, Arial !important;
+font-size: 12px important;
+}
+
+a {
+color: f77b19 !important;
+font-family: Helvetica, Arial !important;
+font-weight: normal !important;
+font-size: 12px !important;
+}
+
+img { border: 0; }
+
+.clear { clear: both; }
+.contactTable { display: none; }
+.nameText { display: none; }
+body>div { margin-left: 19px; }
+
+.n { hide profile box }
+body table table table table td.text { display: none; }
+body table table table td.text strong { display: none; }
+
+.n { space inner area between music nav and start content }
+body table table { margin-top: 690px; }
+body div table table, body table table table, .friendsComments { margin-top: 0; }
+
+.n { about heading }
+td.text td.text .orangetext15 {
+display: none;
+}
+
+.n { friends heading - overwrite css from about heading }
+.friendSpace .orangetext15 {
+display: block !important;
+text-indent: -9999px;
+background: url(http://www.tbdrecords.com/radiohead/myspace/rh-friends.jpg) no-repeat;
+width: 448px;
+height: 31px;
+}
+
+.friendSpace .btext
+{
+font-family: Helvetica, Arial !important;
+font-size: 12px;
+color: f3dd7d !important;
+font-weight: normal;
+}
+
+.friendSpace .redbtext
+{
+color: f77b19 !important;
+font-family: Helvetica, Arial !important;
+font-size: 15px;
+font-weight: normal;
+}
+
+.n { tour dates }
+table table div table { display: none; }
+
+object {
+position: absolute;
+top: 559px;
+left: 50%;
+margin-left: -39px;
+}
+
+.latestBlogEntry .btext
+{
+display: block;
+text-indent: -9999px;
+width: 448px;
+height: 50px;
+background: url(http://www.tbdrecords.com/radiohead/myspace/rh-blog.jpg) no-repeat;
+}
+
+.latestBlogEntry .text
+{
+font-family: Helvetica, Arial !important;
+font-size: 12px;
+color: f3dd7d !important;
+}
+
+.n { !! begin custom layout !! }
+
+.customHeader
+{
+position: absolute;
+top: 160px;
+left: 50%;
+margin-left: -438px;
+width: 875px;
+height: 732px;
+background: url(http://www.tbdrecords.com/radiohead/myspace/rh-header.jpg) no-repeat;
+}
+
+.photolink
+{
+position: absolute;
+width: 60px;
+height: 20px;
+
+top: 407px;
+left: 50%;
+margin-left: -190px;
+}
+
+.vidlink
+{
+position: absolute;
+width: 60px;
+height: 20px;
+
+top: 407px;
+left: 50%;
+margin-left: -120px;
+}
+
+.nav
+{
+list-style: none;
+padding: 0;
+
+position: absolute;
+top: 453px;
+_top: 461px;
+left: 50%;
+margin-left: -360px;
+
+}
+
+.nav li a
+{
+display:block;
+height: 30px;
+_height: 31px;
+width: 300px;
+}
+
+.n { reset and position new about area }
+.customAbout {
+background: url(http://www.tbdrecords.com/radiohead/myspace/rh-widget.jpg) no-repeat;
+padding-top: 31px;
+width: 450px;
+text-align: center;
+}
+
+.customAbout p
+{
+text-align: left;
+font-family: Helvetica, Arial !important;
+font-size: 12px;
+color: f3dd7d !important;
+}
+
+.customAbout object, .customAboveTour object {
+position: relative;
+top: 0;
+left: 0;
+margin-left: 0;
+}
+
+.n { !! custom left column !! }
+
+.customLeft {
+position: absolute;
+top: 933px;
+left: 50%;
+width: 318px;
+margin-left: -391px;
+}
+
+.customLeft .buylink
+{
+position: absolute;
+top: 74px;
+left: 50%;
+margin-left: -38px;
+
+display: block;
+width: 145px;
+height: 20px;
+}
+
+.customLeft .top
+{
+width: 317px;
+height: 374px;
+background: url(http://www.tbdrecords.com/radiohead/myspace/rh-left-top.jpg) no-repeat;
+}
+
+.customLeft .bottom
+{
+width: 317px;
+height: 311px;
+background: url(http://www.tbdrecords.com/radiohead/myspace/rh-left-bottom.jpg) no-repeat;
+margin-bottom: 15px;
+}
+
+.customLeft .weblink
+{
+font-family: Helvetica, Arial;
+font-size: 18px !important;
+font-weight: normal;
+color: FFFFFF !important;
+letter-spacing: 1px;
+display: block;
+margin-bottom: 5px;
+}
+
+.customLeft .labellink
+{
+font-family: Helvetica, Arial;
+font-size: 18px !important;
+font-weight: normal;
+color: 8c8c8c !important;
+letter-spacing: 1px;
+display: block;
+margin-bottom: 5px;
+}
+
+.n { reset embed positioning }
+.contentEmbed, .contentEmbed object {
+position: relative;
+top: 0;
+left: 0;
+margin: 0;
+}
+
+.friendsComments {
+}
+
+.friendsComments td.text table {
+}
+
+.friendsComments .columnsWidening
+{
+font-size: 12px !important;
+}
+
+.friendsComments .orangetext15 {
+display: block;
+text-indent: -9999px;
+width: 448px;
+height: 31px;
+background: url(http://www.tbdrecords.com/radiohead/myspace/rh-comments.jpg) no-repeat;
+}
+
+.friendsComments b, .friendsComments td {
+color: f3dd7d !important;
+font-size: 12px !important;
+font-weight: normal;
+}
+
+.n { numbers in comment heading }
+.friendsComments .redtext {
+color: f77b19 !important;
+font-size: 15px;
+}
+
+.n { dates in comments }
+.friendsComments .blacktext10 {
+color: f3dd7d !important;
+font-weight: normal;
+margin-bottom: 5px;
+}
+
+.friendsComments table table td {
+padding-top: 15px;
+}
+
+	table table div table { display: block !important;}
+	
+	.tourdateHeading
+	{
+	background: url(http://www.tbdrecords.com/radiohead/myspace/rh-friends.jpg) no-repeat;
+	width: 450px;
+	height: 20px;
+	position: absolute;
+	top: 1000px;
+	left: 50%;
+	margin-left: -400px;
+	}
+	
+	.whitelink font {
+display: block;
+background: url(http://tbdrecords.com/radiohead/myspace/rh-tourdates.gif) no-repeat;
+width: 429px;
+padding-top: 23px;
+margin-top: 700px;
+margin-bottom: 5px;
+	}
+
+	td.text strong {
+	display: none;
+	}
+	table table table table td.text {
+	display: none;
+	}
+	table td.text .whitetext12 {
+display: none;
+	}
+
+	.customAboveTour {
+	position: absolute;
+	top: 1050px;
+	left: 50%;
+	margin-left: -20px;
+	font-size: 15px;
+	}
+
+</style>

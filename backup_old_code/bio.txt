@@ -1,0 +1,8 @@
+<div class="customAbout"> <p>The Radiohead In_Rainbows widget lets you put Radiohead videos, news, tour dates, and more on sites like Facebook and MySpace (and many more).</p> <p>You can try it out right here:</p> <object type="application/x-shockwave-flash" allowScriptAccess="never" allowNetworking="internal" height="366" width="391" id="W478bc7fa4ec1caf3" data="http://widgets.clearspring.com/o/476195e50dfcd954/478bc7fa4ec1caf3">
+  <param name="allowScriptAccess" value="never" />
+  <param name="allowNetworking" value="internal" />
+  <param name="movie" value="http://widgets.clearspring.com/o/476195e50dfcd954/478bc7fa4ec1caf3" />
+  <param name="wmode" value="transparent" />
+  <param name="flashvars" value="" />
+</object> </div> <div class="customAboveTour"> <center> 
+<br><br>

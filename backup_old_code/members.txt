@@ -1,0 +1,34 @@
+<div class="customHeader">
+
+<a class="photolink" href="http://www.msplinks.com/MDFodHRwOi8vdmlld21vcmVwaWNzLm15c3BhY2UuY29tL2luZGV4LmNmbT9mdXNlYWN0aW9uPXVzZXIudmlld0FsYnVtcyZmcmllbmRJRD0yMTU3NTk4NjY=">
+</>
+
+<a class="vidlink" href="http://vids.myspace.com/index.cfm?fuseaction=vids.showvids&friendID=215759866&n=215759866&MyToken=1725802b-508e-4149-a1b3-4c1bd4204a10">
+</a>
+
+<ul class="nav">
+<li><a href="http://www.msplinks.com/MDFodHRwOi8vbWVzc2FnaW5nLm15c3BhY2UuY29tL2luZGV4LmNmbT9mdXNlYWN0aW9uPW1haWwubWVzc2FnZSZmcmllbmRJRD0yMTU3NTk4NjYmTXlUb2tlbj0xNzI1ODAyYi01MDhlLTQxNDktYTFiMy00YzFiZDQyMDRhMTA="></a></li>
+<li><a href="http://www.msplinks.com/MDFodHRwOi8vY29sbGVjdC5teXNwYWNlLmNvbS9pbmRleC5jZm0/ZnVzZWFjdGlvbj1pbnZpdGUuYWRkZnJpZW5kX3ZlcmlmeSZmcmllbmRJRD0yMTU3NTk4NjYmTXlUb2tlbj0xNzI1ODAyYi01MDhlLTQxNDktYTFiMy00YzFiZDQyMDRhMTA="></a></li>
+<li><a href="http://www.msplinks.com/MDFodHRwOi8vY2hhdC5teXNwYWNlLmNvbS9pbmRleC5jZm0/ZnVzZWFjdGlvbj1tZXNzZW5nZXImc3RyRGVzdGluYXRpLi4yMTU3NTk4NjYmc2VuZFR5cGU9MA=="></a></li>
+<li><a href="http://www.msplinks.com/MDFodHRwOi8vZ3JvdXBzLm15c3BhY2UuY29tL2luZGV4LmNmbT9mdXNlYWN0aW9uPWdyb3Vwcy5hZGR0b2dyb3VwJmZyaWVuZElEPTIxNTc1OTg2Ng=="></a></li>
+
+<li><a href="http://www.msplinks.com/MDFodHRwOi8vbWVzc2FnaW5nLm15c3BhY2UuY29tL2luZGV4LmNmbT9mdXNlYWN0aW9uPW1haWwuZm9yd2FyZCZmcmllbmRJRD0yMTU3NTk4NjYmZj1mb3J3YXJkcHJvZmlsZQ=="></a></li>
+<li><a href="http://www.msplinks.com/MDFodHRwOi8vY29sbGVjdC5teXNwYWNlLmNvbS9pbmRleC5jZm0/ZnVzZWFjdGlvbj11c2VyLmFkZFRvRmF2b3JpdGUmZnJpZW5kSUQ9MjE1NzU5ODY2JnB1YmxpYz0w"></a></li>
+<li><a href="http://www.msplinks.com/MDFodHRwOi8vY29sbGVjdC5teXNwYWNlLmNvbS9pbmRleC5jZm0/ZnVzZWFjdGlvbj1ibG9jay5ibG9ja1VzZXImdXNlcklEPTIxNTc1OTg2Ng=="></a></li>
+<li><a href="http://www.msplinks.com/MDFodHRwOi8vY29sbGVjdC5teXNwYWNlLmNvbS9pbmRleC5jZm0/ZnVzZWFjdGlvbj1SYXRlSW1hZ2UuVXNlclJhdGluZyZVc2VySUQ9MjE1NzU5ODY2"></a></li>
+</ul>
+
+</div>
+
+<div class="customLeft">
+<div class="top">
+<a href="http://www.msplinks.com/MDFodHRwOi8vcmFkaW9oZWFkLnNob3AubXVzaWN0b2RheS5jb20v" class="buylink"></a>
+</div>
+<div class="bottom"></div>
+<a href="http://www.msplinks.com/MDFodHRwOi8vd3d3LnJhZGlvaGVhZC5jb20v" class="weblink">RADIOHEAD'S OFFICIAL SITE</a>
+<a href="http://www.msplinks.com/MDFodHRwOi8vd3d3LnRiZHJlY29yZHMuY29tLw==" class="labellink">TBD RECORDS</a>
+<a href="http://www.msplinks.com/MDFodHRwOi8vd3d3LnhscmVjb3JkaW5ncy5jb20=" class="labellink">XL RECORDINGS</a>
+
+
+</div>
+ 
